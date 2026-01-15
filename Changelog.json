@@ -1,0 +1,9 @@
+{
+  "allUpdates": [
+    {
+      "versionNumber": "0.~",
+      "updateTitle": "Formulation stage",
+      "patchNotes": "• Creating the first few components of the game, such as a changelog and time manager"
+    }
+  ]
+}
