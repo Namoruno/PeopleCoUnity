@@ -2,11 +2,6 @@
   "allUpdates": [
     {
       "versionNumber": "0.0.~",
-      "updateTitle": "TESTING: Changelog",
-      "patchNotes": "This message is a test on the ability for RemoteChangelog.cs to aesthetically display multiple logs."
-    },
-    {
-      "versionNumber": "0.0.~",
       "updateTitle": "ADDED: Changelog",
       "patchNotes": "RemoteChangelog.cs now automatically reads remote json to keep players up to date."
     }
